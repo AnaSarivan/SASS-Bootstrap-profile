@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #1c2f2a;
+}
+
+.navbar {
+  background-color: rgb(56, 95, 86);
+  display: flex;
+  box-shadow: 0 0 5px 1px black;
+}
+.navbar .brand {
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: auto;
+}
+.navbar .active {
+  color: rgb(239, 227, 205);
+  text-decoration: underline;
+}
+.navbar a {
+  color: #dac0c6;
+  padding: 20px;
+}
+.navbar a:hover {
+  background-color: #4f8679;
+}/*# sourceMappingURL=style.css.map */
